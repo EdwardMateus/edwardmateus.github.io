@@ -1,0 +1,78 @@
+
+#parrafo1 {
+	color: green;
+	width: 600px;
+	border: 1px solid black;
+}
+
+a[href]{
+	color: red;
+}
+
+a:hover {
+	color: green;
+	background: yellow;
+}
+
+a:focus {
+	color: black;
+}
+
+p:hover {
+	color: gray;
+}
+
+strong {
+	color: red;
+}
+
+.carrot {
+	color: orange;
+}
+
+.spinach {
+	color: green;
+}
+
+#first {
+	font-style: italic;
+}
+
+p {
+	color: blue;
+}
+
+html {
+	font-size: 10px; /* así se agregan comentarios en CSS */
+	font-family: 'Montserrat', sans-serif;
+	background-color: #EEE;
+}
+
+body {
+	width: 600px;
+	margin: 0 auto;
+	background-color: #FF9500;
+	padding: 0 20px 20px 20px;
+	border: 5px solid black;
+}
+
+h1 {
+	font-size: 60px;
+	text-align: center;
+	margin: 0;
+	padding: 20px;
+	color: #00539F;
+	text-shadow: 5px 3px 1px black;
+}
+
+p,li {
+	font-size: 16px;
+	line-height: 2;
+	letter-spacing: 1px;
+}
+
+img {
+	display: block;
+	margin: 0 auto;
+	
+}
